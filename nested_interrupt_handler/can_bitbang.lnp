@@ -1,0 +1,6 @@
+--cpu ARM7TDMI
+".\startup.o"
+--strict --scatter ".\can_bitbang.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\can_bitbang.map" -o .\can_bitbang.axf

@@ -1,0 +1,2 @@
+Dependencies for Project 'can_bitbang', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x532C14EA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\keil4\arm_dep\ARM\RV31\INC-I D:\keil4\arm_dep\ARM\CMSIS\Include-I D:\keil4\arm_dep\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
